@@ -9,8 +9,13 @@ es:
         email: "Email"
         message: "Mensaje"
         subject: "Asunto"
+  contact_us: "Contáctanos"
+  sent_by_contact_form: "Enviado por el formulario de contacto desde %{email}"
+  sent_by_name: "Enviado por %{name} desde %{email"
+  subject: "Mensaje de contacto desde %{email}"
+  submit: "Enviar"
   spree:
-    contact_us:
+    contact_us: 
       contact_mailer:
         contact_email:
           sent_by_contact_form: "Enviado por el formulario de contacto desde %{email}"
